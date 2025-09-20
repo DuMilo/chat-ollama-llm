@@ -2,7 +2,7 @@
 
 #### Uma aplicação de chat que interage com um modelo de linguagem grande (LLM), hospedado em um servidor Ollama. O usuário pode digitar mensagens, e o LLM responderá com base nessas mensagens.
 
-# Como utilizar da aplicação?
+## Como utilizar da aplicação?
 
 * Copie o link do repositório e clone numa pasta do máquina local.
 ```
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python app.py  
 ```
 
-# Tecnologias Usadas
+## Tecnologias Usadas
 
 * **Linguagem de Programação**: Python
 * **Bibliotecas**: Requests
