@@ -11,7 +11,7 @@ git clone https://github.com/DuMilo/chat-ollama-llm.git
 
 * Ter Python instalado é **necessário**.
 
-* No VSCode, rode isso no terminal do projeto para criação da venv:
+* No VSCode, rode isso no terminal do projeto para baixar as dependências:
 
 ```
 pip install -r requirements.txt
